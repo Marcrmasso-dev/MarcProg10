@@ -9,3 +9,5 @@ Con muchísimas ganas de aprender y seguir creciendo! 💪
 
 I'm Marc, I'm currently studying a double degree in Computer Engineering and Business Administration and Management 💻📚 (one last push! 🏎️)
 Eager to learn and keep growing! 💪
+
+Coneixements en: C++, C, Java, php, SQL, etc.
