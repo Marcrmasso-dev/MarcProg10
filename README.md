@@ -1,4 +1,4 @@
-![image](https://github.com/MarcProg10/MarcProg10/assets/153304109/a7f3d2ff-957a-41b0-a0b6-acfc80804738)
+![2860_hellothere](https://github.com/MarcProg10/MarcProg10/assets/153304109/c0397bfe-8ec6-417d-a1ab-a2fa1a441d3d)
 ### Hello there!
 
 Sóc en Marc, actualment estudio un doble grau d'Enginyeria Informàtica i Administració i Direcció d'Empreses 💻📚 (ja em queda poc! 😏) 
