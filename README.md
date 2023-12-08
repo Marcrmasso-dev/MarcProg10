@@ -7,7 +7,8 @@ Amb moltíssimes ganes d'aprendre i seguir creixent! 💪
 Soy Marc, actualmente estudio un doble grado en Ingeniera Informatica y Administración y Dirección de Empresas. 💻📚 (ya queda poco! 😏)
 Con muchísimas ganas de aprender y seguir creciendo! 💪
 
-I'm Marc, I'm currently studying a double degree in Computer Engineering and Business Administration and Management 💻📚 (one last push! 🏎️)
+I'm Marc, I'm currently studying a double degree in Computer Engineering and Business Administration and Management 💻📚 (last push!🏎️)
+
 Eager to learn and keep growing! 💪
 
 Coneixements en: C++, C, Java, php, SQL, etc.
